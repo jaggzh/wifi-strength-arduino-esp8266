@@ -1,5 +1,7 @@
 Arduino - ESP8266 WiFi Signal Strength "Sketch"
+
 Author: jaggz.h is at gmail.com
+  Date: 2017-05-11
 
 Includes:
   wifi-loc.ino             Main code
